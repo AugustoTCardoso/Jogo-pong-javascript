@@ -1,4 +1,5 @@
 # jogo-pong-javascript
+# Joga-se com 2 jogadores, um com a seta pra cima e pra baixo e o outro com as teclas W e S!
 
 #Jogo pong recriado com a linguagem javascript.
 
